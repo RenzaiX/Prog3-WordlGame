@@ -1,6 +1,5 @@
 /*--------------------------------------------
    Program 3: Wordle Reload
-    CS 141, Spring 2022, UIC
 
     The objective of this game is to guess the randomly selected
     word within a given number of attempts. You can select either
@@ -14,11 +13,6 @@
     will display as a lowercase value.
   - If you enter a character that is not in the word, an asterisk '*'
     will display.
-
-		       
-   Course: CS 141, Spring 2022
-   System: Visual Studio
-   Author: Mykola Turchak
     
  ---------------------------------------------*/
 
